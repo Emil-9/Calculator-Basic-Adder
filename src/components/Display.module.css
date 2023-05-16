@@ -1,0 +1,16 @@
+.display {
+  border-radius: 15px;
+  background-color: #c6e0f37d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: #330033;
+}
+.display h2 {
+  font-size: 20px;
+}
+.display h3 {
+  margin-bottom: 4px;
+}

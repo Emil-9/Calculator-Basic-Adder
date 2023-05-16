@@ -1,0 +1,12 @@
+.footer-container {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 300;
+}
+.footer-container a {
+  color: #ffffff;
+}
+.footer-container p {
+  margin-bottom: 0;
+  margin-top: 20px;
+}

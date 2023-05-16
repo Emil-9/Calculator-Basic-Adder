@@ -1,0 +1,14 @@
+----------- Work Requirements ------------
+simple React calculator (adder) has the following mandatory functionalities:
+
+1- rows can be added and removed
+2- each row have a sign (minus or plus)
+3- each row can be enabled or disabled by a dedicated control button. Disabled rows must be excluded from the addition.
+4- The result must be updated "live" while the user is writing
+
+
+---------- Main Features -------------
+1- This project is built using ReactJs Functional components.
+3- custom hook 'useAccumulator' for accumulating the passed data array.
+4- For any future project requirement I used reduxJS store and its toolkit for making the the data global and pass it to any component.
+5- the Redux store has 3 Reducers (adding new row - updating the value of a row - removing an item from the array).
